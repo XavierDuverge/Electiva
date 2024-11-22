@@ -1,0 +1,6 @@
+@LoadDWVentas.Api_HostAddress = http://localhost:5016
+
+GET {{LoadDWVentas.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
